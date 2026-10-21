@@ -1,4 +1,4 @@
-## Main document
+# README — PHP vulnerability tracking resources
 **[php-vulnerability-tracking-resources.md](./php-vulnerability-tracking-resources.md)**
 Curated **URLs + short descriptions** for:
 - **php2shell** (CVE-2026-109618 / CVE-2026-109619) — official advisories, vendor blogs, forums
